@@ -57,6 +57,11 @@
     box-sizing: border-box;
     border: 7px solid rgb(136, 135, 135);
     transition: .10s all;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 54px;
 }
 
 .button:hover {

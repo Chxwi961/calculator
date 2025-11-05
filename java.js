@@ -10,8 +10,8 @@ for (let i=0 ; i < (cols * rows); i++) {
     
     newCell.style.width = `${buttonWidth / cols}px`
     newCell.style.height = `${buttonHeight / rows}px`
-    newCell.style.backgroundColor = 'white'
     newCell.classList.add('button')
+
 
     buttoncontainer.appendChild(newCell)
 }

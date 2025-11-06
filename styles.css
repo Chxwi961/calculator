@@ -48,12 +48,14 @@
     color: rgb(83, 79, 79);
     margin: 5px auto;
     margin-right: 15px;
+    margin-bottom: 0;
 }
 
 .result {
     font-size: 65px;
     margin: 5px auto;
     margin-right: 15px;
+    margin-top: 0;
 }
 
 
